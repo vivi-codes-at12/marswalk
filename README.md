@@ -4,7 +4,7 @@ Interactive educational explorer for Jezero Crater combining Mars terrain, geolo
 
 ## What it shows
 
-The Marswalk map is an interactive Folium product with selectable terrain and geology layers, clickable geology boundaries, and a provisional slope-screening layer. The current map also includes a MEDA Sol 1 historical-data chart and a Perseverance image context panel.
+The Marswalk map is an interactive Folium product with selectable terrain and geology layers, clickable geology boundaries, and a provisional slope-screening layer, built as a NASA Space Apps 2026 project. The current map also includes a MEDA Sol 1 historical-data chart and a Perseverance image context panel.
 
 The map is intended for exploration and education—not rover navigation or operational route planning. The slope-screening layer is explicitly provisional; terrain resolution, vertical units, radiation, weather, obstacles, and actual rover mobility are not fully modeled. Do not treat colors, routes, or measurements as safety assessments.
 
